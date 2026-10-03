@@ -3,3 +3,19 @@ title: Avinash Kaul
 tagline: Avinash Kaul | Technologist, Leader and Enterprise Solutions Architect
 description: Technologist, Leader and Enterprise Solutions Architect
 logo: /assets/img/logo.png
+
+url: https://avinash-tech-io.github.io
+baseurl: /profile
+lang: en-US
+logo: /assets/img/logo.png
+author: Avinash Kaul
+ 
+# Links search engines to your other profiles
+social:
+  name: Avinash Kaul
+  links:
+    - https://www.linkedin.com/in/avinashkaul/
+ 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
