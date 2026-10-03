@@ -1,5 +1,3 @@
-```markdown
-
 ## I design and build the systems that connect enterprises, and the AI that works across them.
  
 For more than two decades I've helped organizations turn complex business problems into platforms that are simple to use, secure and built to last. I lead teams, advise executives, and still write the code.
@@ -46,7 +44,6 @@ I'm always glad to talk about applied AI, enterprise architecture and building g
 * ![](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-afym5u/Slack_Mark_Web.png?height=50&width=50)[Slack](https://softwareengin-s8p3087.slack.com/team/U01FM3VAV8F)
 
 
-```
 
 
 
