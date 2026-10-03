@@ -1,3 +1,6 @@
+---
+About Me: Avinash Kaul
+---
 ## I design and build the systems that connect enterprises, and the AI that works across them.
  
 I've spent more than 20 years working with Fortune 500 companies, EdTech providers and public sector organizations, solving complex business problems through large-scale enterprise implementations. I lead engineering teams, advise executives on strategy, and stay hands-on in the code.
