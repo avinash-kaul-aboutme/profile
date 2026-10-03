@@ -9,7 +9,7 @@ I've spent more than 20 years working with Fortune 500 companies, EdTech provide
 ### Technologist
 I stay close to what's new and test it against real problems. Lately that means agentic AI: designing systems of agents, giving them the right context and memory, and connecting them safely to the tools people already use every day.
  
-### Leader
+### Leader and trusted advisor
 I build teams that ship. I've grown engineering organizations across regions, partnered with executives on technology strategy, and worked alongside customers from the first conversation through to go-live and beyond.
  
 ### Hands-on Solutions architect
