@@ -1,6 +1,6 @@
 ## I design and build the systems that connect enterprises, and the AI that works across them.
  
-For more than two decades I've helped organizations turn complex business problems into platforms that are simple to use, secure and built to last. I lead teams, advise executives, and still write the code.
+I've spent more than 20 years working with Fortune 500 companies, EdTech providers and public sector organizations, solving complex business problems through large-scale enterprise implementations. I lead engineering teams, advise executives on strategy, and stay hands-on in the code.
  
 [Connect on LinkedIn](https://www.linkedin.com/in/avinashkaul/) · [Email me](mailto:kaulavinash@gmail.com)
  
