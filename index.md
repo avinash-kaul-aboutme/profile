@@ -12,7 +12,7 @@ I stay close to what's new and test it against real problems. Lately that means 
 ### Leader
 I build teams that ship. I've grown engineering organizations across regions, partnered with executives on technology strategy, and worked alongside customers from the first conversation through to go-live and beyond.
  
-### Hands-on solution architect
+### Hands-on Solutions architect
 I prototype quickly, build services from the ground up, and set the architectural standards that let teams move fast without breaking what matters. I'm as comfortable in a code review as in a boardroom.
  
 ## Areas of expertise
@@ -25,12 +25,14 @@ I prototype quickly, build services from the ground up, and set the architectura
 * **Security and compliance:** zero trust, identity and single sign-on, and handling regulated data.
 * **Platform engineering:** CI/CD, infrastructure as code and release practices that let teams ship safely and often.
 * **Customer solutions:** turning business needs into technical solutions alongside sales and account teams, from discovery to go-live.
+  
 ## How I work
  
 * **Start with the problem.** Technology choices follow from what customers and teams actually need.
 * **Prototype early.** A working version in people's hands teaches more than a long design document.
 * **Design for change.** Integrations should outlast any single vendor, model or framework.
 * **Build trust in from the start.** Security, reliability and responsible AI are part of the design, not a final checklist.
+  
 ## Where I've applied it
  
 Retail and restaurants, hospitality, financial services, higher education, healthcare and the public sector, and logistics and supply chain. Across all of them the work has been the same at heart: connecting systems, data and people so the business can move faster.
